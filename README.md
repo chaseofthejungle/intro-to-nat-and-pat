@@ -8,7 +8,8 @@
 2. [NAT Benefits](#natbenefits)
 3. [Port Address Translation (PAT) Explained](#pat)
 4. [PAT Benefits](#patbenefits)
-5. [Supplemental Resources](#supplemental)
+5. [NAT and PAT Comparison Table](#comparison)
+6. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -36,10 +37,14 @@
 
 <hr />
 
-## 5. <a name="supplemental">Supplemental Resources</a>
+## 5. <a name="comparison">NAT and PAT Comparison Table</a>
+
+(TODO)
+
+<hr />
+
+## 6. <a name="supplemental">Supplemental Resources</a>
 
 * *[Configuring Network Address Translation and Static Port Address Translation to Support an Internal Web Server (Official Cisco Documentation)](https://www.cisco.com/c/en/us/support/docs/long-reach-ethernet-lre-digital-subscriber-line-xdsl/asymmetric-digital-subscriber-line-adsl/12905-827spat.html)*
 * *[Configuring the NAT Device (Official HPE Aruba Networking Article)](https://arubanetworking.hpe.com/techdocs/ArubaOS/AOS_8x_WebHelp/Content/arubaos-solutions/rap/conf-nat-devi.htm?Highlight=nat)*
 * *[Intro to Networking - Network Address Translation (NAT) and the Internet (Official UniFi Article)](https://help.ui.com/hc/en-us/articles/115005779887-Intro-to-Networking-Network-Address-Translation-NAT-and-the-Internet)*
-
-<hr />
