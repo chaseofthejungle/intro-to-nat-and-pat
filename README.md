@@ -39,7 +39,10 @@
 
 ## 5. <a name="comparison">NAT and PAT Comparison Table</a>
 
-(TODO)
+| | Static NAT | Dynamic NAT | PAT |
+| :---: | :---: | :---: | :---: |
+| What It Does | | | |
+| When to Use It | | | |
 
 <hr />
 
