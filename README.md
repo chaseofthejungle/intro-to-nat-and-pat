@@ -41,7 +41,7 @@
 
 | | Static NAT | Dynamic NAT | PAT |
 | :---: | :---: | :---: | :---: |
-| What It Does | | | |
+| What It Does | Establishes a persistent one-to-one correspondence between a specified private IP address and a specified public IP address. | Establishes a relationship between a private IP and a public IP by borrowing from a pool of addresses, operating on a first-come/first-serve basis in response to a device within a network connecting to a device external to the network. | Establishes many-to-one relationships between multiple private IP addresses and one public IP address, utilizing various port numbers to mark traffic by type. |
 | When to Use It | | | |
 
 <hr />
