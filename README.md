@@ -1,6 +1,6 @@
 # Intro to NAT and PAT Overview Guide
 
-**TODO:** A brief introductory guide to NAT and PAT as fundamental computer networking concepts.
+**Description/Overview:** This guide provides a brief overview to the networking solutions *Network Address Translation* (NAT) and *Port Address Translation* (PAT), which map one public IP address to multiple private addresses in increasing security and conserving the pool of available IP addresses.
 
 #### Table of Contents
 
