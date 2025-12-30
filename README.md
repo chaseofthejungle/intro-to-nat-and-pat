@@ -42,7 +42,7 @@
 | | Static NAT | Dynamic NAT | PAT |
 | :---: | :---: | :---: | :---: |
 | What It Does | Establishes a persistent one-to-one correspondence between a specified private IP address and a specified public IP address. | Establishes a relationship between a private IP and a public IP by borrowing from a pool of addresses, operating on a first-come/first-serve basis in response to a device within a network connecting to a device external to the network. | Establishes many-to-one relationships between multiple private IP addresses and one public IP address, utilizing various port numbers to mark traffic by type. |
-| When to Use It | | | |
+| When to Use It | If users external to a network need to connect to the internal network (common for VPN, e-mail, and web servers). | If there are a lot of devices that need to access the internet but should not be accessible outside of the network (especially if there are more private than public IP addresses, and less public IPs available than there are devices). | Implemented in Small Office Home Office (SOHO) networks that need to keep public IP addresses available, while enabling multiple users to be represented externally by one IP address. |
 
 <hr />
 
